@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif:opsz@12..24&display=swap");
+
+.profile {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "Hedvig Letters Serif", sans-serif;
+  background-image: url("./images/backgrondFinal.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.div-cont-prof {
+  background-color: rgba(248, 248, 248, 0.299);
+  padding: 20px;
+  max-width: 300px;
+  border: 3px solid white;
+  border-radius: 30px;
+}
+
+.div-cont-prof a {
+  background: linear-gradient(to left, rgb(203, 232, 169), rgb(126, 142, 156));
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+.imageGit {
+  max-width: 50px;
+  max-height: 50px;
+}

@@ -1,0 +1,50 @@
+.page-form {
+  height: 733px;
+  width: auto;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-image: url("./images/backgrondFinal.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+.page-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+form {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+  max-width: 300px;
+}
+
+.form-div {
+  background-color: #f9f9f970;
+  padding: 20px;
+  border-radius: 30px;
+  border: 2px solid white;
+}
+
+label {
+  display: block;
+}
+
+input[type="text"],
+input[type="email"] {
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+  margin-bottom: 12px;
+  border-radius: 10px;
+}

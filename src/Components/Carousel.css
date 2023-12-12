@@ -1,0 +1,16 @@
+.div-carousel-container {
+  display: grid;
+  width: 1000px;
+  height: 600px;
+  border-radius: 60px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+}
+.carousel-image {
+  width: 1000px;
+  height: 600px;
+  border-radius: 30px;
+}

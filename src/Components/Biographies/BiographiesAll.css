@@ -1,0 +1,16 @@
+.containerBio img {
+  height: 600px;
+  width: auto;
+}
+.bio {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  text-align: center;
+  margin: 0 200px;
+}
+.videos {
+  width: 640px;
+  height: 360px;
+}
