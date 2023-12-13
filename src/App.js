@@ -18,7 +18,7 @@ import Credits from "./Components/Credits";
 function App() {
   return (
     <Router>
-      <Routes basename="/ReacProject">
+      <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/biographies" element={<Biographies />} />
         <Route path="/Biographies/AdaL" element={<AdaLovelace />} />
