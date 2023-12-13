@@ -11,11 +11,11 @@ function Footer() {
             <h4>Student</h4>
             <ul>
               <li>
-                <a href="#">Edwin Alvaro</a>
+                <a href="https://github.com/iTzManix">Edwin Alvaro</a>
               </li>
 
               <li>
-                <a href="#">Mamani Choque</a>
+                <a href="https://github.com/iTzManix">Mamani Choque</a>
               </li>
             </ul>
           </div>
@@ -24,22 +24,22 @@ function Footer() {
             <div className="social-links">
               <ul>
                 <li>
-                  <a href="#">
+                  <a href="https://github.com/iTzManix">
                     <i className="fab fa-facebook-f"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="https://github.com/iTzManix">
                     <i className="fab fa-linkedin-in"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="https://github.com/iTzManix">
                     <i className="fab fa-twitter"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="https://github.com/iTzManix">
                     <i className="fab fa-instagram"></i>
                   </a>
                 </li>
